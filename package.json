@@ -9,5 +9,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
